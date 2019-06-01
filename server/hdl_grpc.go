@@ -15,7 +15,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/tinode/chat/pbx"
+	"github.com/aristofanio/tinodechat/pbx"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"
 )

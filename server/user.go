@@ -4,10 +4,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/push"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/aristofanio/tinodechat/server/auth"
+	"github.com/aristofanio/tinodechat/server/push"
+	"github.com/aristofanio/tinodechat/server/store"
+	"github.com/aristofanio/tinodechat/server/store/types"
 )
 
 // Process request for a new account.

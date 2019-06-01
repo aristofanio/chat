@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	_ "github.com/tinode/chat/server/auth/basic"
-	"github.com/tinode/chat/server/store"
-	"github.com/tinode/chat/server/store/types"
+	"github.com/aristofanio/tinodechat/server/auth"
+	_ "github.com/aristofanio/tinodechat/server/auth/basic"
+	"github.com/aristofanio/tinodechat/server/store"
+	"github.com/aristofanio/tinodechat/server/store/types"
 )
 
 func genDb(reset bool, config string, data *Data) {

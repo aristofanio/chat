@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/tinode/chat/server/auth"
-	"github.com/tinode/chat/server/store"
-	t "github.com/tinode/chat/server/store/types"
+	"github.com/aristofanio/tinodechat/server/auth"
+	"github.com/aristofanio/tinodechat/server/store"
+	t "github.com/aristofanio/tinodechat/server/store/types"
 	rdb "gopkg.in/rethinkdb/rethinkdb-go.v5"
 )
 
